@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "A2::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-A2-Debug-13c6278133201600a5c3.json",
+					"jsonFile" : "target-A2-Debug-c98f5a5252628e352558.json",
 					"name" : "A2",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/stasi/OneDrive - Politechnika Wroclawska/CLionProjects/A2/cmake-build-debug",
-		"source" : "C:/Users/stasi/OneDrive - Politechnika Wroclawska/CLionProjects/A2"
+		"build" : "C:/Users/stasi/Desktop/programowanie/studia/PA_Grafy/cmake-build-debug",
+		"source" : "C:/Users/stasi/Desktop/programowanie/studia/PA_Grafy"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 7
 	}
 }
